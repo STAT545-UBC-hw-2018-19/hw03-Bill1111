@@ -5,6 +5,8 @@ date: '2018-19-02'
 output: github_document
 ---
 
+> Tables added with File folder
+
 In this homework assignment, I will be using dplyr/ggplot2 to manipulate and explore data. To start with I will call the 'tidyverse' and 'gapminder' packages using the library() function. To avoid startup messages, I have used the suppressPackageStartupMessages() function in the code below.
 
 ```{r}

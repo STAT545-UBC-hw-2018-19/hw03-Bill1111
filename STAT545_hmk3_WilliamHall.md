@@ -3,6 +3,8 @@ STAT545\_hmk3\_WilliamHall
 William Hall
 2018-19-02
 
+> Tables added with File folder
+
 In this homework assignment, I will be using dplyr/ggplot2 to manipulate and explore data. To start with I will call the 'tidyverse' and 'gapminder' packages using the library() function. To avoid startup messages, I have used the suppressPackageStartupMessages() function in the code below.
 
 ``` r
